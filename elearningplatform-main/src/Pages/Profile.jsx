@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Image1 from"../assets/Image1.png"
+import Image1 from"../assets/image1.png"
 
 const StatsSection = () => {
   const stats = [
