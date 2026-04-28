@@ -1,0 +1,1300 @@
+{
+    "subjects": [
+      {
+        "subject": "History",
+        "chapters": [
+          {
+            "chapter_no": 1,
+            "chapter_name": "The French Revolution",
+            "video_url": "https://www.youtube.com/watch?v=nI8e5vrrmSk",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What was the main cause of the French Revolution?",
+                "options": {
+                  "A": "Economic inequality",
+                  "B": "Political stability",
+                  "C": "Cultural unity",
+                  "D": "Colonial expansion"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which event is commonly seen as the start of the French Revolution?",
+                "options": {
+                  "A": "Storming of the Bastille",
+                  "B": "Signing of the Declaration of Rights",
+                  "C": "Execution of King Louis XVI",
+                  "D": "Reign of Terror"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Who were the main factions during the French Revolution?",
+                "options": {
+                  "A": "Royalists and Republicans",
+                  "B": "Bourgeoisie and Nobles",
+                  "C": "Liberal and Conservative",
+                  "D": "Clerical and Secular"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What was the outcome of the Reign of Terror?",
+                "options": {
+                  "A": "Establishment of a monarchy",
+                  "B": "Rise of Napoleon Bonaparte",
+                  "C": "End of economic strife",
+                  "D": "Restoration of noble privileges"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which document proclaimed the rights of man and citizen?",
+                "options": {
+                  "A": "Constitution of 1791",
+                  "B": "Declaration of the Rights of Man",
+                  "C": "Civil Constitution of the Clergy",
+                  "D": "Treaty of Paris"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "Socialism in Europe and the Russian Revolution",
+            "video_url": "https://www.youtube.com/watch?v=EDf3vfsSE7Q",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What was a primary objective of socialism?",
+                "options": {
+                  "A": "Personal wealth acquisition",
+                  "B": "Collective ownership",
+                  "C": "Colonial expansion",
+                  "D": "Political dictatorship"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which event marked the beginning of the Russian Revolution?",
+                "options": {
+                  "A": "October Revolution",
+                  "B": "February Revolution",
+                  "C": "Fall of the Tsar",
+                  "D": "Formation of USSR"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Who was the leader of the Bolsheviks?",
+                "options": {
+                  "A": "Trotsky",
+                  "B": "Stalin",
+                  "C": "Lenin",
+                  "D": "Kerensky"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What was the main economic change after the Russian Revolution?",
+                "options": {
+                  "A": "Return to capitalism",
+                  "B": "Implementation of the New Economic Policy",
+                  "C": "Land reforms favoring landowners",
+                  "D": "Repression of peasant uprisings"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which ideology sought to establish a classless society?",
+                "options": {
+                  "A": "Liberalism",
+                  "B": "Socialism",
+                  "C": "Fascism",
+                  "D": "Monarchism"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Nazism and the Rise of Hitler",
+            "video_url": "https://www.youtube.com/watch?v=K0m7xIwnHzI",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What was a key tenet of Nazism?",
+                "options": {
+                  "A": "Anti-semantic policies",
+                  "B": "Labor rights",
+                  "C": "Universal suffrage",
+                  "D": "Free education"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What economic situation contributed to Hitler's rise?",
+                "options": {
+                  "A": "Economic prosperity",
+                  "B": "Hyperinflation",
+                  "C": "Social welfare",
+                  "D": "High employment"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which party did Hitler lead?",
+                "options": {
+                  "A": "Communist Party",
+                  "B": "Social Democratic Party",
+                  "C": "Nazi Party",
+                  "D": "Liberal Party"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What was the Night of the Long Knives?",
+                "options": {
+                  "A": "Attack on Jewish businesses",
+                  "B": "Purge of SA leaders",
+                  "C": "Assassination of political opponents",
+                  "D": "Takeover of German government"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How did Hitler consolidate power?",
+                "options": {
+                  "A": "Through elections",
+                  "B": "Use of military force",
+                  "C": "Constitutional amendments",
+                  "D": "Political dialogue"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Forest Society and Colonialism",
+            "video_url": "https://www.youtube.com/watch?v=2Z5x8Uk9YoA",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What motivated colonial expansion into forested areas?",
+                "options": {
+                  "A": "Preservation of nature",
+                  "B": "Economic gain",
+                  "C": "Cultural exchange",
+                  "D": "Scientific research"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which group suffered due to colonial policies in forests?",
+                "options": {
+                  "A": "Landowners",
+                  "B": "Farmers",
+                  "C": "Tribal communities",
+                  "D": "Urban merchants"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How did colonial governments manage forest resources?",
+                "options": {
+                  "A": "Free access for all",
+                  "B": "State control",
+                  "C": "Privatization",
+                  "D": "Community management"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What was a common result of forest colonization?",
+                "options": {
+                  "A": "Biodiversity loss",
+                  "B": "Increased forest area",
+                  "C": "Cultural enrichment",
+                  "D": "Economic stability"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which concept best describes the colonial view on forests?",
+                "options": {
+                  "A": "Sustainable development",
+                  "B": "Resource exploitation",
+                  "C": "Conservation",
+                  "D": "Local empowerment"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Pastoralists in the Modern World - Part 1",
+            "video_url": "https://www.youtube.com/watch?v=nVNO9PLiTAA",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What does pastoralism primarily involve?",
+                "options": {
+                  "A": "Agricultural farming",
+                  "B": "Hunting and gathering",
+                  "C": "Raising livestock",
+                  "D": "Fishing"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which factor affects pastoralists the most today?",
+                "options": {
+                  "A": "Climate change",
+                  "B": "Technological advancements",
+                  "C": "Market demand",
+                  "D": "Urban migration"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "How do pastoralists traditionally adapt to their environment?",
+                "options": {
+                  "A": "By settling permanently",
+                  "B": "By changing livestock types",
+                  "C": "By migrating with livestock",
+                  "D": "By practicing crop rotation"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which is a common challenge faced by modern pastoralists?",
+                "options": {
+                  "A": "Excessive rainfall",
+                  "B": "Resource scarcity",
+                  "C": "Biodiversity growth",
+                  "D": "Government support"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Pastoralists maintain their culture through?",
+                "options": {
+                  "A": "Urban integration",
+                  "B": "Cultural exchanges",
+                  "C": "Traditional practices",
+                  "D": "Education"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Pastoralists in the Modern World - Part 2",
+            "video_url": "https://www.youtube.com/watch?v=pZ7dM_M43m8",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What type of region do pastoralists typically inhabit?",
+                "options": {
+                  "A": "Urban cities",
+                  "B": "Coastal areas",
+                  "C": "Grasslands and deserts",
+                  "D": "Tropical forests"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which practice is vital for pastoralists?",
+                "options": {
+                  "A": "Agricultural irrigation",
+                  "B": "Group grazing",
+                  "C": "Seasonal migration",
+                  "D": "Permanent residency"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What role does technology play in modern pastoralism?",
+                "options": {
+                  "A": "No role",
+                  "B": "Enhances traditional methods",
+                  "C": "Replaces traditional practices",
+                  "D": "Only for urban pastoralists"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Pastoralist societies often rely on what type of governance?",
+                "options": {
+                  "A": "Democratic",
+                  "B": "Authoritarian",
+                  "C": "Tribal and decentralized",
+                  "D": "Socialist"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "One of the challenges modern pastoralists face is:",
+                "options": {
+                  "A": "Continued support",
+                  "B": "Cultural preservation",
+                  "C": "Climate adaptation",
+                  "D": "Urban opportunities"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Pastoralists in the Modern World - Part 3",
+            "video_url": "https://www.youtube.com/watch?v=fr3Xg2bwHyo",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is a significant method of adapting to climate changes for pastoralists?",
+                "options": {
+                  "A": "Switching to crop growing",
+                  "B": "Government subsidies",
+                  "C": "Flexible herding practices",
+                  "D": "Reduced livestock numbers"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Modernization has led to:",
+                "options": {
+                  "A": "Total reliance on technology",
+                  "B": "A decline in pastoralism",
+                  "C": "Integration of traditional and modern practices",
+                  "D": "Disappearance of pastoral cultures"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Pastoralists mainly trade their livestock for what?",
+                "options": {
+                  "A": "Luxury items",
+                  "B": "Essential goods",
+                  "C": "Agricultural land",
+                  "D": "Technological gadgets"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How can pastoralists improve their livelihoods?",
+                "options": {
+                  "A": "Decreasing their livestock",
+                  "B": "Limit community access",
+                  "C": "Diversifying activities",
+                  "D": "Adhering strictly to traditions"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which participant is key in rural development?",
+                "options": {
+                  "A": "Pastoralists",
+                  "B": "Urban planners",
+                  "C": "National governments",
+                  "D": "Private companies"
+                },
+                "correct_answer": "A"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Geography",
+        "chapters": [
+          {
+            "chapter_no": 1,
+            "chapter_name": "India: Size and Location",
+            "video_url": "https://www.youtube.com/watch?v=UwTrh6KADx0",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the total area of India?",
+                "options": {
+                  "A": "2.4 million sq km",
+                  "B": "3.286 million sq km",
+                  "C": "2 million sq km",
+                  "D": "2.9 million sq km"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which latitude is the Tropic of Cancer located?",
+                "options": {
+                  "A": "23.5° N",
+                  "B": "30° N",
+                  "C": "15° N",
+                  "D": "25° N"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is India's geographical position?",
+                "options": {
+                  "A": "Only in the Northern Hemisphere",
+                  "B": "Equatorial",
+                  "C": "Partly in Northern and Southern Hemisphere",
+                  "D": "Desert"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which ocean lies to the south of India?",
+                "options": {
+                  "A": "Atlantic Ocean",
+                  "B": "Indian Ocean",
+                  "C": "Arctic Ocean",
+                  "D": "Pacific Ocean"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which country lies to the north of India?",
+                "options": {
+                  "A": "Bangladesh",
+                  "B": "Pakistan",
+                  "C": "China",
+                  "D": "Nepal"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "Physical Features of India",
+            "video_url": "https://www.youtube.com/watch?v=kkfFIP6r6Mw",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "Which mountain range runs along the northern border of India?",
+                "options": {
+                  "A": "Western Ghats",
+                  "B": "Eastern Ghats",
+                  "C": "Himalayas",
+                  "D": "Aravalli Range"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What type of climate is found in the Thar Desert?",
+                "options": {
+                  "A": "Tropical",
+                  "B": "Temperate",
+                  "C": "Arid",
+                  "D": "Mediterranean"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which river is known as the 'Ganges of the South'?",
+                "options": {
+                  "A": "Godavari",
+                  "B": "Krishna",
+                  "C": "Kaveri",
+                  "D": "Mahanadi"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What landform predominates in northeastern India?",
+                "options": {
+                  "A": "Plains",
+                  "B": "Plateaus",
+                  "C": "Hills",
+                  "D": "Deserts"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which is the largest river basin in India?",
+                "options": {
+                  "A": "Godavari Basin",
+                  "B": "Ganges Basin",
+                  "C": "Brahmaputra Basin",
+                  "D": "Krishna Basin"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Drainage",
+            "video_url": "https://www.youtube.com/watch?v=rI45OrEpiRY",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the primary drainage system of India?",
+                "options": {
+                  "A": "Eastern slopes rivers",
+                  "B": "Peninsular rivers",
+                  "C": "Indus River System",
+                  "D": "Ganges River System"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "Which river is the longest river in India?",
+                "options": {
+                  "A": "Yamuna",
+                  "B": "Ganges",
+                  "C": "Godavari",
+                  "D": "Brahmaputra"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a defining characteristic of the Himalayan rivers?",
+                "options": {
+                  "A": "They are perennial",
+                  "B": "They are seasonal",
+                  "C": "They are slow-flowing",
+                  "D": "They are narrow"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What type of river is the Narmada?",
+                "options": {
+                  "A": "Perennial",
+                  "B": "Intermittent",
+                  "C": "Seasonal",
+                  "D": "Ephemeral"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which river is known as 'Saraswati'?",
+                "options": {
+                  "A": "Ganges",
+                  "B": "Sindhu",
+                  "C": "Yamuna",
+                  "D": "Saraswati"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Climate",
+            "video_url": "https://www.youtube.com/watch?v=HEGUtvdMntQ",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What are the main seasons in India?",
+                "options": {
+                  "A": "Winter and Spring",
+                  "B": "Summer and Monsoon",
+                  "C": "Tropical and Arid",
+                  "D": "Cold and Hot"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which climate type predominates in India?",
+                "options": {
+                  "A": "Arid",
+                  "B": "Temperate",
+                  "C": "Tropical",
+                  "D": "Polar"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "When does the southwest monsoon typically arrive in India?",
+                "options": {
+                  "A": "January",
+                  "B": "June",
+                  "C": "September",
+                  "D": "February"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the average rainfall in India?",
+                "options": {
+                  "A": "750 mm",
+                  "B": "1000 mm",
+                  "C": "1500 mm",
+                  "D": "2000 mm"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which part of India receives the highest rainfall?",
+                "options": {
+                  "A": "Western Rajasthan",
+                  "B": "Eastern Himalayas",
+                  "C": "Gujarat",
+                  "D": "Coastal regions"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Natural Vegetation and Wildlife",
+            "video_url": "https://www.youtube.com/watch?v=2d7UIyyIHhk",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What type of vegetation is found in the Himalayan region?",
+                "options": {
+                  "A": "Tropical deciduous",
+                  "B": "Tropical evergreen",
+                  "C": "Mountainous",
+                  "D": "Scrub"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which forest type is prevalent in India?",
+                "options": {
+                  "A": "Coniferous",
+                  "B": "Deciduous",
+                  "C": "Tundra",
+                  "D": "Mangroves"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the primary cause of deforestation in India?",
+                "options": {
+                  "A": "Urbanization",
+                  "B": "Industrialization",
+                  "C": "Agricultural expansion",
+                  "D": "Natural disasters"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "Which wildlife is endemic to the Western Ghats?",
+                "options": {
+                  "A": "Tiger",
+                  "B": "Asiatic elephant",
+                  "C": "Bengal tiger",
+                  "D": "Polar bear"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the significance of mangroves?",
+                "options": {
+                  "A": "Provide shelter to wildlife",
+                  "B": "Contribute to fishing",
+                  "C": "Combat soil erosion",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          },
+          {
+            "chapter_no": 6,
+            "chapter_name": "Population",
+            "video_url": "https://www.youtube.com/watch?v=Oj_aKrVyZNo",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the most populous state in India?",
+                "options": {
+                  "A": "Maharashtra",
+                  "B": "Uttar Pradesh",
+                  "C": "Bihar",
+                  "D": "West Bengal"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the sex ratio of India?",
+                "options": {
+                  "A": "940 females per 1000 males",
+                  "B": "1020 females per 1000 males",
+                  "C": "900 females per 1000 males",
+                  "D": "960 females per 1000 males"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which age group forms the largest demographic in India?",
+                "options": {
+                  "A": "Children",
+                  "B": "Working-age individuals",
+                  "C": "Elderly",
+                  "D": "Teenagers"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the population growth rate of India as of 2023?",
+                "options": {
+                  "A": "1.5%",
+                  "B": "0.8%",
+                  "C": "1.0%",
+                  "D": "2.0%"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which factor significantly affects population distribution?",
+                "options": {
+                  "A": "Climate",
+                  "B": "Urbanization",
+                  "C": "Employment opportunities",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Civics",
+        "chapters": [
+          {
+            "chapter_no": 1,
+            "chapter_name": "What is Democracy? Why Democracy?",
+            "video_url": "https://www.youtube.com/watch?v=y-W_8C7RMCA",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is a defining feature of democracy?",
+                "options": {
+                  "A": "Absence of government",
+                  "B": "People's participation",
+                  "C": "Constitutional monarchy",
+                  "D": "Centralized power"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which principle underpins democratic governance?",
+                "options": {
+                  "A": "Autocracy",
+                  "B": "Equality before law",
+                  "C": "Divine right of kings",
+                  "D": "Social hierarchy"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What does 'representation' mean in a democratic context?",
+                "options": {
+                  "A": "Absence of elections",
+                  "B": "Decision-making by a few",
+                  "C": "Direct governance by citizens",
+                  "D": "Elected officials act on behalf of citizens"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "What is essential for the functioning of democracy?",
+                "options": {
+                  "A": "Censorship",
+                  "B": "Freedom of expression",
+                  "C": "Authoritarian rule",
+                  "D": "Political monopolies"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Why is democracy preferred over other forms of governance?",
+                "options": {
+                  "A": "It ensures equal power for few individuals",
+                  "B": "It secures individual rights",
+                  "C": "It limits citizen participation",
+                  "D": "It creates social disparities"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "Constitutional Design",
+            "video_url": "https://www.youtube.com/watch?v=Bt7wIfqP2qY",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the Constitution?",
+                "options": {
+                  "A": "A law passed by parliament",
+                  "B": "A set of fundamental principles",
+                  "C": "A declaration of independence",
+                  "D": "A political manifesto"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is one primary purpose of a Constitution?",
+                "options": {
+                  "A": "To establish a monarchy",
+                  "B": "To create a framework for governance",
+                  "C": "To promote undemocratic practices",
+                  "D": "To enforce religious laws"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What does federalism mean in the context of the Indian Constitution?",
+                "options": {
+                  "A": "Centralized power",
+                  "B": "Division of powers between state and central government",
+                  "C": "Absolute monarchy",
+                  "D": "Socialism"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which document outlines the fundamental rights of citizens?",
+                "options": {
+                  "A": "Directive Principles",
+                  "B": "Preamble",
+                  "C": "Bill of Rights",
+                  "D": "Constitution"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "How is the Constitution amended in India?",
+                "options": {
+                  "A": "By a simple majority",
+                  "B": "By a two-thirds majority",
+                  "C": "Unilaterally by the President",
+                  "D": "Through public referendum"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Electoral Politics",
+            "video_url": "https://www.youtube.com/watch?v=-Q6RbFTvQws",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the importance of elections in a democracy?",
+                "options": {
+                  "A": "A tool for political manipulation",
+                  "B": "A means for citizen participation",
+                  "C": "A method to limit governance",
+                  "D": "A response to economic issues"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the voting age in India?",
+                "options": {
+                  "A": "18 years",
+                  "B": "21 years",
+                  "C": "25 years",
+                  "D": "16 years"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is the role of the Election Commission?",
+                "options": {
+                  "A": "To conduct fair elections",
+                  "B": "To formulate party policies",
+                  "C": "To appoint the Prime Minister",
+                  "D": "To draft laws"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What is the first step in the electoral process?",
+                "options": {
+                  "A": "Campaigning",
+                  "B": "Voting",
+                  "C": "Nominations",
+                  "D": "Electoral Roll"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a common voting method used in India?",
+                "options": {
+                  "A": "Direct voting",
+                  "B": "Proportional voting",
+                  "C": "Secret ballot",
+                  "D": "Open voting"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Working of Institutions",
+            "video_url": "https://www.youtube.com/watch?v=XFK9LvVo06k",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is the function of the Parliament?",
+                "options": {
+                  "A": "To create laws",
+                  "B": "To enforce laws",
+                  "C": "To mediate disputes",
+                  "D": "To execute policies"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which institution is responsible for the implementation of laws?",
+                "options": {
+                  "A": "Judiciary",
+                  "B": "Legislature",
+                  "C": "Executive",
+                  "D": "Civil Society"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How does the Judiciary function in a democracy?",
+                "options": {
+                  "A": "Supports the government",
+                  "B": "Is independent and impartial",
+                  "C": "Is subject to public opinion",
+                  "D": "Is led by elected representatives"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the role of the President in India?",
+                "options": {
+                  "A": "Head of State with ceremonial functions",
+                  "B": "Executive leader",
+                  "C": "Judicial officer",
+                  "D": "Legislative leader"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Institutional checks and balances are meant to:",
+                "options": {
+                  "A": "Consolidate power",
+                  "B": "Maintain accountability",
+                  "C": "Suppress criticism",
+                  "D": "Limit public engagement"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 5,
+            "chapter_name": "Democratic Rights",
+            "video_url": "https://www.youtube.com/watch?v=m7yygYZMQkg",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What are democratic rights?",
+                "options": {
+                  "A": "Rights granted by the government",
+                  "B": "Fundamental human rights",
+                  "C": "Privileges of the elite",
+                  "D": "Temporary permissions"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which fundamental right protects the freedom of speech?",
+                "options": {
+                  "A": "Right to equality",
+                  "B": "Right to freedom",
+                  "C": "Right to protection",
+                  "D": "Right to constitutional remedies"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the significance of the right to constitutional remedies?",
+                "options": {
+                  "A": "It guarantees governmental power",
+                  "B": "It allows citizens to approach the courts",
+                  "C": "It is subject to legislative approval",
+                  "D": "It is limited to politically privileged"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which of the following is not a fundamental right?",
+                "options": {
+                  "A": "Right to education",
+                  "B": "Right to work",
+                  "C": "Right to property",
+                  "D": "Right to vote"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "How can citizens exercise their rights?",
+                "options": {
+                  "A": "By engaging in protests",
+                  "B": "By following laws",
+                  "C": "By voting",
+                  "D": "All of the above"
+                },
+                "correct_answer": "D"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Economics",
+        "chapters": [
+          {
+            "chapter_no": 1,
+            "chapter_name": "The Story of Village Palampur",
+            "video_url": "https://www.youtube.com/watch?v=R4z5qEoEMnM",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What primarily characterizes the village of Palampur?",
+                "options": {
+                  "A": "Industrialization",
+                  "B": "Agricultural practices",
+                  "C": "Urban development",
+                  "D": "Mining activities"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What are the main crops grown in Palampur?",
+                "options": {
+                  "A": "Rice and wheat",
+                  "B": "Cotton and coffee",
+                  "C": "Sugarcane and tea",
+                  "D": "Millets and pulses"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "What type of farming is predominant in Palampur?",
+                "options": {
+                  "A": "Commercial agriculture",
+                  "B": "Subsistence farming",
+                  "C": "Intensive farming",
+                  "D": "Organic farming"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a common method of irrigation in Palampur?",
+                "options": {
+                  "A": "Drip irrigation",
+                  "B": "Canal irrigation",
+                  "C": "Rainfed",
+                  "D": "Flood irrigation"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How does the village economy function?",
+                "options": {
+                  "A": "Only through agriculture",
+                  "B": "Based on trade and services",
+                  "C": "Through primary and secondary sectors",
+                  "D": "Only reliant on local industries"
+                },
+                "correct_answer": "C"
+              }
+            ]
+          },
+          {
+            "chapter_no": 2,
+            "chapter_name": "People as Resource",
+            "video_url": "https://www.youtube.com/watch?v=KqDMoFPI6uY",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What does the term 'human resource' refer to?",
+                "options": {
+                  "A": "Natural resources",
+                  "B": "Labor force",
+                  "C": "Capital",
+                  "D": "Natural gifts"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "How can education enhance human resources?",
+                "options": {
+                  "A": "By reducing employment",
+                  "B": "By improving skills and productivity",
+                  "C": "By distributing wealth",
+                  "D": "By increasing population"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the main aim of workforce development?",
+                "options": {
+                  "A": "To create unemployment",
+                  "B": "To advance skills",
+                  "C": "To limit education",
+                  "D": "To promote hierarchy"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the role of women in the economy?",
+                "options": {
+                  "A": "Limited contribution",
+                  "B": "Equal role",
+                  "C": "Lower wages",
+                  "D": "Priority in labor force"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What does demographic dividend refer to?",
+                "options": {
+                  "A": "Population decline",
+                  "B": "Youth population dynamic",
+                  "C": "High unemployment",
+                  "D": "Older workforce"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 3,
+            "chapter_name": "Poverty as a Challenge",
+            "video_url": "https://www.youtube.com/watch?v=drBMgu-FgfA",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is a significant measure of poverty?",
+                "options": {
+                  "A": "Income level",
+                  "B": "Education level",
+                  "C": "Employment status",
+                  "D": "Wealth distribution"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which type of poverty refers to severe deprivation of basic human needs?",
+                "options": {
+                  "A": "Relative poverty",
+                  "B": "Absolute poverty",
+                  "C": "Chronic poverty",
+                  "D": "Seasonal poverty"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is the main effect of poverty on education?",
+                "options": {
+                  "A": "Improves education quality",
+                  "B": "Reduces access to schooling",
+                  "C": "Promotes literacy",
+                  "D": "Guarantees equal opportunities"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which group is most vulnerable to poverty?",
+                "options": {
+                  "A": "Urban dwellers",
+                  "B": "The elderly",
+                  "C": "Children",
+                  "D": "Skilled workers"
+                },
+                "correct_answer": "C"
+              },
+              {
+                "question": "What is a common solution to reduce poverty?",
+                "options": {
+                  "A": "Lack of education",
+                  "B": "Job creation",
+                  "C": "Tax increases",
+                  "D": "Population control"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          },
+          {
+            "chapter_no": 4,
+            "chapter_name": "Food Security in India",
+            "video_url": "https://www.youtube.com/watch?v=2kghu2NCQ6A",
+            "channel": "Social School by Unacademy",
+            "questions": [
+              {
+                "question": "What is meant by food security?",
+                "options": {
+                  "A": "Access to food for all",
+                  "B": "Availability of food",
+                  "C": "Quality of food",
+                  "D": "Stability of food prices"
+                },
+                "correct_answer": "A"
+              },
+              {
+                "question": "Which scheme aims to enhance food security?",
+                "options": {
+                  "A": "Mahatma Gandhi National Rural Employment Guarantee Act",
+                  "B": "National Food Security Act",
+                  "C": "Pradhan Mantri Awas Yojana",
+                  "D": "Swachh Bharat Abhiyan"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "What is a major cause of food insecurity?",
+                "options": {
+                  "A": "Increased agricultural productivity",
+                  "B": "Natural disasters",
+                  "C": "Improved distribution",
+                  "D": "Government policies"
+                },
+                "correct_answer": "B"
+              },
+              {
+                "question": "Which crop is considered a staple food in India?",
+                "options": {
+                  "A": "Wheat",
+                  "B": "Soybean",
+                  "C": "Barley",
+                  "D": "Rice"
+                },
+                "correct_answer": "D"
+              },
+              {
+                "question": "What role does the Public Distribution System (PDS) play?",
+                "options": {
+                  "A": "Regulates prices",
+                  "B": "Distributes food grains",
+                  "C": "Enhances exports",
+                  "D": "Controls imports"
+                },
+                "correct_answer": "B"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

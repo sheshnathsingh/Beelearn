@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: bee-learn-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn run:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: PYTHONUNBUFFERED
+        value: 1
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: bee-learn-db
+          property: connectionString
+      - key: CORS_ORIGINS
+        sync: false
+
+databases:
+  - name: bee-learn-db
+    databaseName: bee_learn_lms
+    user: bee_learn_user
