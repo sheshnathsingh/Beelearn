@@ -81,3 +81,4 @@ def create_app():
             logger.warning("Server will start without database connection.")
 
     return app
+app=create_app()
