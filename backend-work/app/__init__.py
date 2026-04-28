@@ -81,4 +81,7 @@ def create_app():
             logger.warning("Server will start without database connection.")
 
     return app
-app=create_app()
+
+# Expose a default WSGI app object for Gunicorn / Render.
+# This allows `gunicorn app:app` to work when the service auto-detects the package.
+app = create_app()
