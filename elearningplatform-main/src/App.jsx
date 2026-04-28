@@ -4,7 +4,7 @@ import Navbar from './Components/Navbar'
 import Home from "./Pages/Home"
 import Profile  from"./Pages/Profile";
 import Cards from"./Pages/Cards";
-import CardVariants from './Pages/carVariants';
+import CardVariants from './Pages/CarVariants';
 import Footer from './Components/Footer';
 import Login from './Pages/Login';
 import Register from './Pages/Register';
