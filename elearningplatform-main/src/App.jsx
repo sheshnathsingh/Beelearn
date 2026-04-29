@@ -31,7 +31,9 @@ function App() {
         <Route path='/dashboard' element={<Dashboard/>}/>
         <Route path='/quiz/:classNumber/:subject' element={<Quiz/>}/>
         <Route path='/profile' element={<Profile/>}/>
-        
+         <Routes>
+        <Route path="/quiz/:id" element={<Quiz />} />  {/* ✅ FIX */}
+      </Routes>
         {/* Admin Routes */}
         <Route path='/admin/login' element={<AdminLogin/>}/>
         <Route path='/admin/dashboard' element={<AdminDashboard/>}/>
