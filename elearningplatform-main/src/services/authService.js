@@ -3,7 +3,7 @@ import { API_BASE_URL } from '../config/api';
 // User Authentication Service
 export const authService = {
   // User Login
-  login: async (email, password) => {
+ /* login: async (email, password) => {
     try {
       const response = await fetch(`${API_BASE_URL}/api/login`, {
         method: 'POST',
@@ -21,7 +21,34 @@ export const authService = {
     } catch (error) {
       return { success: false, error: 'Unable to connect to server' };
     }
-  },
+  }*/ login: async (email, password) => {
+  try {
+    const response = await fetch(`${API_BASE_URL}/api/login`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ email, password }),
+    });
+
+    const data = await response.json();
+
+    if (response.ok) {
+      // ✅ USER STORE
+      localStorage.setItem('userData', JSON.stringify(data.user));
+
+      // ✅ TOKEN STORE (IMPORTANT)
+      localStorage.setItem('token', data.token);
+
+      return { success: true, data: data.user };
+    }
+
+    return { success: false, error: data.error };
+
+  } catch (error) {
+    return { success: false, error: 'Unable to connect to server' };
+  }
+},
 
   // User Registration
   register: async (userData) => {
