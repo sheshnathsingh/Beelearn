@@ -17,7 +17,7 @@ export const contentService = {
   },
 
   // Get quiz for a specific class and subject
-  getQuiz: async (classNumber, subject) => {
+ /* getQuiz: async (classNumber, subject) => {
     try {
       const response = await fetch(`${API_BASE_URL}/api/class/${classNumber}/${subject}/quiz`);
       const data = await response.json();
@@ -28,8 +28,34 @@ export const contentService = {
     } catch (error) {
       return { success: false, error: 'Unable to connect to server' };
     }
-  },
+  }*/ ,
+getQuiz: async (classNumber, subject) => {
+  try {
+    const token = localStorage.getItem("token");
 
+    const response = await fetch(
+      `${API_BASE_URL}/api/class/${classNumber}/${subject}/quiz`,
+      {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`  // ✅ IMPORTANT
+        }
+      }
+    );
+
+    const data = await response.json();
+
+    if (response.ok) {
+      return { success: true, data };
+    }
+
+    return { success: false, error: data.error };
+
+  } catch (error) {
+    return { success: false, error: 'Unable to connect to server' };
+  }
+}
   // Get all videos
   getVideos: async () => {
     try {
