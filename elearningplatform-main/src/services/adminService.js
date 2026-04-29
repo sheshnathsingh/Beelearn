@@ -63,10 +63,12 @@ export const adminService = {
     try {
       const response = await fetch(`${API_BASE_URL}/api/admin/videos`, {
         method: 'POST',
+        mode: 'cors',
+        credentials: 'include',
         headers: {
           'Content-Type': 'application/json',
         },
-        credentials: 'include',
+        
         body: JSON.stringify(videoData),
       });
       const data = await response.json();
