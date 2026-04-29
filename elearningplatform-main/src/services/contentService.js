@@ -39,7 +39,7 @@ getQuiz: async (classNumber, subject) => {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": `Bearer ${token}`  // ✅ IMPORTANT
+          credentials: "include"  // ✅ IMPORTANT
         }
       }
     );
