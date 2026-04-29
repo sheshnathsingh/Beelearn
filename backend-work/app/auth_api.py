@@ -5,7 +5,6 @@ from . import db  # Import db from app.py
 # from .models import User  # Import User model for User-specific routes
 from .helpers import is_valid_email, is_valid_password  # Assuming these helpers are already defined
 
-auth_bp = Blueprint('auth_bp', __name__)
 
 # User model (existing code for user registration and login) remains unchanged
 class User(db.Model):
@@ -86,7 +85,9 @@ def register():
 
 # ============================
 # USER LOGIN
+
 # ============================
+
 @auth_bp.route('/api/login', methods=['POST'])
 def login():
     data = request.json
@@ -126,6 +127,7 @@ def login():
     except Exception as e:
         print(f"Login Error: {e}")
         return jsonify({"error": "An error occurred while logging in"}), 500
+
 
 # ============================
 # GET CURRENT USER (With Session Authentication)
